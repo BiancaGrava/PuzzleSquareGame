@@ -1,0 +1,47 @@
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe.config
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.pdb
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csprojAssemblyReference.cache
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form1.resources
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form2.resources
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Properties.Resources.resources
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csproj.GenerateResource.cache
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csproj.CoreCompileInputs.cache
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.exe
+C:\Users\C\source\repos\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.pdb
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csprojAssemblyReference.cache
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form1.resources
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form2.resources
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Properties.Resources.resources
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csproj.GenerateResource.cache
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csproj.CoreCompileInputs.cache
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.exe
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.pdb
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe.config
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.pdb
+D:\C\12C\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form3.resources
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csprojResolveAssemblyReference.cache
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form1.resources
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form2.resources
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form3.resources
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Properties.Resources.resources
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csproj.GenerateResource.Cache
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.exe
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.pdb
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe.config
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.pdb
+E:\Bianca\Materii scoala\C#\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form4.resources
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe.config
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.exe
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\bin\Debug\Grava Bianca_culori.pdb
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csprojResolveAssemblyReference.cache
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form1.resources
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form2.resources
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form3.resources
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Form4.resources
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava_Bianca_culori.Properties.Resources.resources
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.csproj.GenerateResource.Cache
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.exe
+D:\ProiecteC#\inainte de inceperea facultatii\Grava Bianca_culori\Grava Bianca_culori\obj\Debug\Grava Bianca_culori.pdb
